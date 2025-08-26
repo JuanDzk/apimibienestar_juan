@@ -7,10 +7,10 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "juandi",
-    "password": "mNvXurhgX1DeeFsWV7XIifx1hifYTBxM",
-    "database": "mibienestar711_tb6g",
-    "host": "dpg-d2mggihr0fns73b5t8lg-a",
+    "username": "juand",
+    "password": "IvkwtRINs4qvXzG8XGPYN5KXxxivDqeS",
+    "database": "mibienestar711_cnol",
+    "host": "dpg-d2mt7upr0fns73bkf6kg-a",
     "dialect": "postgres",
     "dialectOptions":{
       "ssl":{
@@ -20,10 +20,10 @@
     }
   },
   "production": {
-    "username": "juandi",
-    "password": "mNvXurhgX1DeeFsWV7XIifx1hifYTBxM",
-    "database": "mibienestar711_tb6g",
-    "host": "dpg-d2mggihr0fns73b5t8lg-a.oregon-postgres.render.com",
+    "username": "juand",
+    "password": "IvkwtRINs4qvXzG8XGPYN5KXxxivDqeS",
+    "database": "mibienestar711_cnol",
+    "host": "dpg-d2mt7upr0fns73bkf6kg-a.oregon-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions":{
       "ssl":{
