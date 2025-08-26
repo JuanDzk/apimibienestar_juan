@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "mibienestar711",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "juandi",
+    "password": "mNvXurhgX1DeeFsWV7XIifx1hifYTBxM",
+    "database": "mibienestar711_tb6g",
+    "host": "dpg-d2mggihr0fns73b5t8lg-a",
+    "dialect": "postgres",
+    "dialectOptions":{
+      "ssl":{
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "juandi",
+    "password": "mNvXurhgX1DeeFsWV7XIifx1hifYTBxM",
+    "database": "mibienestar711_tb6g",
+    "host": "dpg-d2mggihr0fns73b5t8lg-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions":{
+      "ssl":{
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
